@@ -1,5 +1,11 @@
 # UNP-Project_BI-with-Power-BI_HR-Data
 
+key highlights
+
+1.Contributed to the development of intricate KPIs and dynamic, interactive power BI interfaces.
+2.Collaborated with employees and understood their requirements and translated them into effective power BI solutions.
+3.Ardently involved in creating data model, implemented data transfermations and calculations using DAX for accurate analysis and reporting
+
 #UNP_Employee_attrition
 
 completed this project as a part of value added course by united network professionals
